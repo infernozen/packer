@@ -45,7 +45,6 @@ By pre-building machine images using Packer and provisioner (Here i used shell s
 <img src='images/packer-result.png'>
 </details>
 
-==================== I will upload a demo video here =====================
 
 # Building and Pushing Docker Images with Security checks:
 ***Why are we doing this?***
@@ -87,7 +86,6 @@ Building and pushing Docker images with security checks is imperative to safegua
 <img src='images/docker-petclinic.png'>
 </details>
 
-==================== I will upload a demo video here =====================
 
 # Creating Iac with Terraform (Final Phase):
 ***Why are we doing this?***
@@ -145,4 +143,3 @@ In this final phase of our IaC project using Terraform, we are driven by several
 <img src='images/lb-verify.png'><br>
 </details>
 
-==================== I will upload a demo video here =====================
